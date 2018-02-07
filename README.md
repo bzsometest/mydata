@@ -1,6 +1,11 @@
 # mydata
 我的数据，网站指向
 
-## 点击预览：
+## 我的个人主页 - 点击预览：
 
-http://htmlpreview.github.io/?https://github.com/bzsome/bzchao/master/index.htm
+https://bzsome.github.io/bzchao/
+
+
+## bzchao下载中心 - 点击预览：
+
+http://www.bzchao.com/download/
