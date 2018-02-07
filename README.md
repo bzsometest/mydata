@@ -3,4 +3,4 @@
 
 ## 点击预览：
 
-http://htmlpreview.github.io/?https://github.com/bzsome/bzchao/blob/master/index.htm
+http://htmlpreview.github.io/?https://github.com/bzsome/bzchao/master/index.htm
