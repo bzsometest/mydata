@@ -1,4 +1,8 @@
 <myweb>
+  <!--我的个人主页-->
   <myhome>http://www.bzchao.com</myhome>
+  
+  <!--下载页面-->
   <download>http://www.bzchao.com/download</download>
+  
 </myweb>
