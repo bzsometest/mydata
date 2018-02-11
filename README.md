@@ -13,6 +13,7 @@ http://weibo.bzchao.com/
 <hr/>
 
 ### Jar包下载 mvnrepository
+http://www.findjar.com/
 http://www.mvnrepository.com/
 
 ### Bmob后端云 - 数据储存
