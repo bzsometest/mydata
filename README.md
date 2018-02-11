@@ -10,7 +10,7 @@ http://www.bzchao.com/download/
 
 ### 菁英微博WEB版 - 点击预览：
 http://weibo.bzchao.com/
-<hr/>  
+<hr/>
 
 ### Jar包下载 mvnrepository
 http://www.mvnrepository.com/
