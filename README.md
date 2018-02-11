@@ -3,7 +3,7 @@
 
 ### 我的个人主页 - 点击预览：
 
-https://bzsome.github.io/bzchao/
+http://www.bzchao.com
 
 ### bzchao下载中心 - 点击预览：
 http://www.bzchao.com/download/
