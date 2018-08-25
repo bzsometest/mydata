@@ -12,19 +12,14 @@ http://www.bzchao.com/download/
 http://weibo.bzchao.com/
 
 ### 在线五子棋社区 - 点击预览：
-http://gobang04.bzchao.com/
+https://github.com/bzsome/gobang04
+
 <hr/>
 
 # 相关链接
-### Jar包下载 mvnrepository
-http://www.findjar.com/
-http://www.mvnrepository.com/
-
 ### Bmob后端云 - 数据储存
 https://www.bmob.cn/
 
-### 软件开发平台和仓库
-https://sourceforge.net
 
 ### 免费域名解析zoneedit
 https://cp.zoneedit.com/manage/domains/
