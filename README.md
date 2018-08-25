@@ -5,14 +5,14 @@
 
 http://www.bzchao.com
 
-### bzchao下载中心 - 点击预览：
-http://www.bzchao.com/download/
+### 在线五子棋社区 - 点击预览：
+https://github.com/bzsome/gobang04
 
 ### 菁英微博WEB版 - 点击预览：
 http://weibo.bzchao.com/
 
-### 在线五子棋社区 - 点击预览：
-https://github.com/bzsome/gobang04
+### bzchao下载中心 - 点击预览：
+http://www.bzchao.com/download/
 
 <hr/>
 
