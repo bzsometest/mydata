@@ -10,6 +10,9 @@ http://www.bzchao.com/download/
 
 ### 菁英微博WEB版 - 点击预览：
 http://weibo.bzchao.com/
+
+### 在线五子棋社区 - 点击预览：
+http://gobang04.bzchao.com/
 <hr/>
 
 # 相关链接
